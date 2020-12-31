@@ -13,4 +13,4 @@ Data JSON didapat dari laman https://pilkada2020.kpu.go.id/. Data JSON dapat dil
 Jika kalian ingin berdonasi, silahkan menghubungi kami melalui jalur berikut ini:
 
 - Email: moehammadhanif@gmail.com
-- Telegram: [t.me/muhammad_hanif](https://t.me/muhammad_hanif)
+- Telegram: [@hanifmu](https://t.me/hanifmu)
